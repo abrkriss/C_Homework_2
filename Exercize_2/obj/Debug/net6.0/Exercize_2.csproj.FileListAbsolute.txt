@@ -1,0 +1,15 @@
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\obj\Debug\net6.0\Exercize_2.csproj.AssemblyReference.cache
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\obj\Debug\net6.0\Exercize_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\obj\Debug\net6.0\Exercize_2.AssemblyInfoInputs.cache
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\obj\Debug\net6.0\Exercize_2.AssemblyInfo.cs
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\obj\Debug\net6.0\Exercize_2.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\bin\Debug\net6.0\Exercize_2.exe
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\bin\Debug\net6.0\Exercize_2.deps.json
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\bin\Debug\net6.0\Exercize_2.runtimeconfig.json
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\bin\Debug\net6.0\Exercize_2.dll
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\bin\Debug\net6.0\Exercize_2.pdb
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\obj\Debug\net6.0\Exercize_2.dll
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\obj\Debug\net6.0\refint\Exercize_2.dll
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\obj\Debug\net6.0\Exercize_2.pdb
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\obj\Debug\net6.0\Exercize_2.genruntimeconfig.cache
+C:\Users\Кристина\OneDrive\Рабочий стол\c_homework_2\Exercize_2\obj\Debug\net6.0\ref\Exercize_2.dll
